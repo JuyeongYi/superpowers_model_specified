@@ -2,6 +2,11 @@
 
 Superpowers is a complete software development methodology for your coding agents, built on top of a set of composable skills and some initial instructions that make sure your agent uses them.
 
+## 수정사항
+
+원본 플러그인의 스킬, 에이전트에서 Claude Code 동작 제어를 위한 프론트매터만 추가된 형태로, 나머지는 모두 똑같고, 그럴 예정입니다. 
+사실상 동작에는 차이가 없으며, 비용 관련 제어만 추가된 형태입니다.
+
 ## How it works
 
 It starts from the moment you fire up your coding agent. As soon as it sees that you're building something, it *doesn't* just jump into trying to write code. Instead, it steps back and asks you what you're really trying to do. 
